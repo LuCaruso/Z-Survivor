@@ -1,3 +1,6 @@
+![ZSurvivors](https://github.com/user-attachments/assets/a98ff700-e31c-42d6-836f-ce69b4565499)
+
+# Jogo disponível em: https://lucaruso.itch.io/z-survivor
 # Por: Luca Caruso
 
 Z-Survivor é um jogo 2D de sobrevivência em que o jogador precisa coletar suprimentos em um cenário pós-apocalíptico enquanto é perseguido por um zumbi. O objetivo é sobreviver e coletar todos os itens antes de ser alcançado.
